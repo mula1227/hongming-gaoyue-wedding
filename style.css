@@ -15,3 +15,6 @@
 .custom-names span { color: #f8c960; font-size: .75em; }
 
 .music-dock > p { display: none; }
+
+.registration-card { padding-top: 16px; }
+.registration-art { width: 100%; height: 180px; object-fit: cover; border: 2px solid #5fa5b7; margin-bottom: 20px; }
